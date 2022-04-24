@@ -1,0 +1,165 @@
+100 AM[1]
+313@Somerset[2]
+Aperia
+Balestier Hill Shopping Centre
+Bugis Cube[3]
+Bugis Junction
+Bugis+
+Capitol Piazza
+Cathay Cineleisure Orchard
+Clarke Quay Central
+The Centrepoint
+City Square Mall
+City Gate Mall[4]
+CityLink Mall
+Duo
+Far East Plaza
+Funan
+Great World City
+HDB Hub
+Holland Village Shopping Mall
+ION Orchard
+Junction 8
+Knightsbridge[5]
+Liat Towers
+Lucky Plaza
+Marina Bay Sands
+The Shoppes at Marina Bay Sands[6]
+Marina Bay Link Mall
+Marina Square
+Millenia Walk
+Mustafa Shopping Centre
+Ngee Ann City
+Orchard Central
+Orchard Gateway
+Orchard Plaza[7]
+Midpoint Orchard[8]
+Palais Renaissance
+People's Park Centre
+People's Park Complex
+Plaza Singapura
+PoMo
+Raffles City
+Scotts Square[9]
+Shaw House and Centre
+Sim Lim Square
+Singapore Shopping Centre
+The South Beach
+Square 2
+Sunshine Plaza[10]
+Suntec City
+Tanglin Mall[11]
+Tanjong Pagar Centre
+Tekka Centre
+The Adelphi
+The Paragon
+Tiong Bahru Plaza
+The Poiz[12]
+Thomson Plaza
+United Square[13]
+Velocity@Novena Square
+Wheelock Place
+Wisma Atria
+Zhongshan Mall[14]
+Bedok Mall
+Bedok Point
+Century Square
+Our Tampines Hub
+Changi City Point
+Downtown East
+Djitsun Mall Bedok
+Eastpoint Mall
+Jewel Changi Airport
+KINEX (formerly OneKM)
+Katong Shopping Centre
+Katong Square[15]
+Kallang Wave Mall
+Leisure Park Kallang
+i12 Katong
+Parkway Parade
+Paya Lebar Square
+Paya Lebar Quarter (PLQ)
+Roxy Square[16]
+Singpost Centre[17]
+Tampines 1
+Tampines Mall
+White Sands
+City Plaza[18]
+Elias Mall[19]
+Loyang Point[20]
+888 Plaza[21]
+Admiralty Place
+AMK Hub
+Canberra Plaza
+Causeway Point
+Woodlands Civic Centre
+Broadway Plaza
+Djitsun Mall
+Jubilee Square
+Junction 8
+Marsiling Mall
+Northpoint City
+Sembawang Shopping Centre
+Sun Plaza
+Vista Point
+Wisteria Mall
+Woodlands Mart
+Woodlands North Plaza
+Waterway Point
+Compass One
+Hougang Mall
+Heartland Mall
+NEX
+Greenwich V
+Hougang 1
+Hougang Green Shopping Mall
+myVillage At Serangoon Garden
+Northshore Plaza
+Oasis Terraces
+Punggol Plaza
+Rivervale Mall
+Rivervale Plaza
+The Seletar Mall
+Buangkok Square
+Upper Serangoon Shopping Centre
+Beauty World Centre
+Beauty World Plaza
+Bukit Panjang Plaza
+Bukit Timah Plaza
+Fajar Shopping Centre
+Greenridge Shopping Centre
+Hillion Mall
+HillV2
+Junction 10
+Keat Hong Shopping Centre
+Limbang Shopping Centre
+Lot One
+Rail Mall
+Sunshine Place
+Teck Whye Shopping Centre
+West Mall
+Yew Tee Point
+Yew Tee Square
+VivoCity
+HarbourFront Centre
+Alexandra Retail Centre
+321 Clementi
+The Clementi Mall
+IMM
+JCube
+Jem
+Westgate
+Jurong Point
+Pioneer Mall
+The Star Vista
+Alexandra Central
+Anchorpoint
+OD Mall
+Boon Lay Shopping Centre
+Grantral Mall
+Fairprice Hub
+Gek Poh Shopping Centre
+Rochester Mall
+Taman Jurong Shopping Centre
+West Coast Plaza
+Queensway Shopping Centre
